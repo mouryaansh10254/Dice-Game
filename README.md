@@ -12,7 +12,7 @@ A simple web-based dice game where two players roll dice, and the result determi
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/mouryaansh10254/dicee-game.git
+   git clone https://github.com/mouryaansh10254/Dice-game.git
 
 2. **Navigate to the Project Directory**
    ```bash
