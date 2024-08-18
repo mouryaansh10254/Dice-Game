@@ -1,4 +1,5 @@
 # **Dicee Game**
+![Dicee Game Logo](images/dicee-logo.png)
 
 A simple web-based dice game where two players roll dice, and the result determines the winner.
 
